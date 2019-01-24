@@ -1,0 +1,5 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^lab0\.Rcheck$
+^lab0.*\.tar\.gz$
+^lab0.*\.tgz$

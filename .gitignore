@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+lab0.Rcheck/
+lab0*.tar.gz
+lab0*.tgz
